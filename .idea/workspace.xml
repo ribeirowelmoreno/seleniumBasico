@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba528b7e-8080-4e51-b792-ad080953807f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ReleaseAutomation/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReleaseAutomation/src/test/java/pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReleaseAutomation/src/test/java/support/Web.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReleaseAutomation/src/test/java/tests/CreateMITSTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReleaseAutomation/src/test/resources/loginMITS.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Appium/AppiumBDDCucumber" beforeDir="false" afterPath="$PROJECT_DIR$/../Appium/AppiumBDDCucumber" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Appium/CucumberTestPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../Appium/CucumberTestPractice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Appium/appium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Appium/appium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Appium/appium/src/test/java/support/NativeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Appium/appium/src/test/java/support/NativeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RobotIntellij" beforeDir="false" afterPath="$PROJECT_DIR$/../RobotIntellij" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetoKotlin" beforeDir="false" afterPath="$PROJECT_DIR$/../projetoKotlin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testes/AddTshirtToCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testes/AddTshirtToCart.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SEpSyo6TOrcXKwZTWD8JFCSyFQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AddTshirtToCart.testAddTShirtToCart">
+    <configuration name="AddTshirtToCart.testAddTShirtToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenuimBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.AddTshirtToCart" />
+      <option name="METHOD_NAME" value="testAddTShirtToCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegister.testUserRegister" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenuimBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.UserRegister" />
+      <option name="METHOD_NAME" value="testUserRegister" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegister.testeAdicionarTshirtAoCarrinho" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenuimBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.UserRegister" />
+      <option name="METHOD_NAME" value="testeAdicionarTshirtAoCarrinho" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserRegister.testUserRegister" />
+        <item itemvalue="JUnit.AddTshirtToCart.testAddTShirtToCart" />
+        <item itemvalue="JUnit.UserRegister.testeAdicionarTshirtAoCarrinho" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba528b7e-8080-4e51-b792-ad080953807f" name="Default Changelist" comment="" />
+      <created>1571138612120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571138612120</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
